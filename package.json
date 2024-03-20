@@ -9,9 +9,9 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/optimics/analytics/dataform/tables",
+  "homepage": "https://github.com/DataWeps/dataform-tables",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/optimics/analytics.git"
+    "url": "git+https://github.com/DataWeps/dataform-tables.git"
   }
 }
