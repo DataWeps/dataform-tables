@@ -1,0 +1,17 @@
+{
+  "name": "@heureka/dataform-tables",
+  "description": "Dataform table naming utility",
+  "version": "0.7.2",
+  "files": [
+    "*.js"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/optimics/analytics/dataform/tables",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimics/analytics.git"
+  }
+}
